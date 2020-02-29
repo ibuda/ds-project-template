@@ -3,18 +3,6 @@
 _A reproducible data science project template inspired from [cookiecutter-data-science](http://drivendata.github.io/cookiecutter-data-science/)._
 
 
-### Template can be downloaded using command:
-``` bash
-    wget https://github.com/ibuda/ds-project-template
-```
-
-or by cloning it:
-
-``` bash
-    git clone https://github.com/ibuda/ds-project-template
-```
-
-
 ### The template directory structure
 ------------
 
