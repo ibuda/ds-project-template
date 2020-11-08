@@ -34,7 +34,8 @@ The directory structure of the template is as follows:
 
 # How to create project environment with Conda
 
-1. Create environment, substitute <env_name> with your desired environment name: `conda create -n <env_name>`
+1. Create environment, substitute <env_name> with your desired environment name:  
+	`conda create -n <env_name>`
 2. Activate it: `conda activate <env_name>`
 3. In case you will need jupyter lab with it:  
     a. Install ipykernel to be used with jupyterlab:  
