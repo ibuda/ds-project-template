@@ -36,7 +36,10 @@ The directory structure of the template is as follows:
 
 1. Create environment, substitute <env_name> with your desired environment name: `conda create -n <env_name>`
 2. Activate it: `conda activate <env_name>`
-3. In case you will need jupyter lab with it:
-    a. Install ipykernel to be used with jupyterlab: `conda install ipykernel`
-    c. Configure python kernel, substitute <kernel_name> with your desired kernel name. It will appear in jupyter lab available kernels list: `ipython kernel install --user --name=<kernel_name>`
-    b. Install jupyter lab: `conda install jupyterlab`
+3. In case you will need jupyter lab with it:  
+    a. Install ipykernel to be used with jupyterlab:  
+	`conda install ipykernel`  
+    c. Configure python kernel, substitute <kernel_name> with your desired kernel name. It will appear in jupyter lab available kernels list:  
+	`ipython kernel install --user --name=<kernel_name>`  
+    b. Install jupyter lab:  
+	`conda install jupyterlab`  
